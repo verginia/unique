@@ -1,1 +1,2 @@
 # unique
+Write a program which will receive as an argument an array of data containing also duplicated values and will return an array of uniques values. As result we should also show the most frequent item from initial array. (ex: [1, 4, 5, 1, 5, 1] => [1, 4, 5] ‘most frequent is 1’)
